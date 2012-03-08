@@ -1,0 +1,2 @@
+# Module de.heardis.vaadin.custom.widgetset.Custom_componentsWidgetset
+# RPC service class, partial path of RPC policy file
